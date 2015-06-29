@@ -1,1 +1,1 @@
-my_blog
+This is the blog of Alex Marino.
